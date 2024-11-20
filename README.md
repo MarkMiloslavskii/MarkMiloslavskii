@@ -1,11 +1,10 @@
-## Hi there 👋
+## Hi there 👋 My name is Mark.
 
-<!--
-**MarkMiloslavskii/MarkMiloslavskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m 21 programmer from Moscow:computer:
-- 🌱 I learn Java at (Job4j)[https://job4j.ru] ☕
+- 🔭 I’m 21 programmer from Moscow :computer:
+- 🌱 I'm learning Java at ☕ (Job4j)[https://job4j.ru] (level trainee)
 - 👯 My Java expirience is 3 months ⏳
--->
+- 🕚 I really appreciate punctuality
+
+## My projects:
